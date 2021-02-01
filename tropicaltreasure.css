@@ -1,0 +1,16 @@
+body{
+  background-image: url('windowbg.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#game{
+  background-image: url('background.png');
+  font-family: 'Nanum Brush Script', cursive;
+  position: absolute;
+  top: 10%;
+  left: 37%;
+  background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
